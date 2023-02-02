@@ -1,37 +1,98 @@
 [
   {
-    "movie": "The Shawshank Redemption",
-    "theater": "AMC",
-    "date": "01/01/2023",
-    "day": "Monday",
-    "price": 20
+    "title": "Человек-паук: Вдали от дома",
+    "date": "1 февраля",
+    "day": "Пятница",
+    "price": 450,
+    "genre": "боевик",
+    "duration": 129
   },
   {
-    "movie": "The Godfather",
-    "theater": "Regal",
-    "date": "02/01/2023",
-    "day": "Tuesday",
-    "price": 25
+    "title": "Гарри Поттер и Философский камень",
+    "date": "2 февраля",
+    "day": "Четверг",
+    "price": 600,
+    "genre": "семейный",
+    "duration": 151
   },
   {
-    "movie": "The Dark Knight",
-    "theater": "AMC",
-    "date": "01/01/2023",
-    "day": "Monday",
-    "price": 15
+    "title": "Властелин колец: Возвращение Короля",
+    "date": "3 февраля",
+    "day": "Среда",
+    "price": 800,
+    "genre": "фэнтези",
+    "duration": 201
   },
   {
-    "movie": "The Godfather: Part II",
-    "theater": "Regal",
-    "date": "02/01/2023",
-    "day": "Tuesday",
-    "price": 30
+    "title": "Интерстеллар",
+    "date": "4 февраля",
+    "day": "Вторник",
+    "price": 800,
+    "genre": "фантастика",
+    "duration": 169
   },
   {
-    "movie": "The Lord of the Rings: The Return of the King",
-    "theater": "AMC",
-    "date": "01/01/2023",
-    "day": "Monday",
-    "price": 10
+    "title": "Темный рыцарь",
+    "date": "5 февраля",
+    "day": "Понедельник",
+    "price": 450,
+    "genre": "боевик",
+    "duration": 152
+  },
+  {
+    "title": "Шпионский генерал",
+    "date": "6 февраля",
+    "day": "Воскресенье",
+    "price": 800,
+    "genre": "триллер",
+    "duration": 128
+  },
+  {
+    "title": "Престиж",
+    "date": "7 февраля",
+    "day": "Суббота",
+    "price": 450,
+    "genre": "драма",
+    "duration": 106
+  },
+  {
+    "title": "Терминатор 2: Судный день",
+    "date": "5 февраля",
+    "day": "Пятница",
+    "price": 450,
+    "genre": "боевик",
+    "duration": 137
+  },
+  {
+    "title": "Леон",
+    "date": "4 февраля",
+    "day": "Четверг",
+    "price": 450,
+    "genre": "триллер",
+    "duration": 140
+  },
+  {
+    "title": "Один дома",
+    "date": "3 февраля",
+    "day": "Среда",
+    "price": 600,
+    "genre": "комедия",
+    "duration": 103
+  },
+  {
+    "title": "Форрест Гамп",
+    "date": "2 февраля",
+    "day": "Вторник",
+    "price": 600,
+    "genre": "драма",
+    "duration": 142
+  },
+  {
+    "title": "Острые козырьки",
+    "date": "1 февраля",
+    "day": "Понедельник",
+    "price": 600,
+    "genre": "комедия",
+    "duration": 121
   }
 ]
