@@ -1,0 +1,37 @@
+[
+  {
+    "movie": "The Shawshank Redemption",
+    "theater": "AMC",
+    "date": "01/01/2023",
+    "day": "Monday",
+    "price": 20
+  },
+  {
+    "movie": "The Godfather",
+    "theater": "Regal",
+    "date": "02/01/2023",
+    "day": "Tuesday",
+    "price": 25
+  },
+  {
+    "movie": "The Dark Knight",
+    "theater": "AMC",
+    "date": "01/01/2023",
+    "day": "Monday",
+    "price": 15
+  },
+  {
+    "movie": "The Godfather: Part II",
+    "theater": "Regal",
+    "date": "02/01/2023",
+    "day": "Tuesday",
+    "price": 30
+  },
+  {
+    "movie": "The Lord of the Rings: The Return of the King",
+    "theater": "AMC",
+    "date": "01/01/2023",
+    "day": "Monday",
+    "price": 10
+  }
+]
